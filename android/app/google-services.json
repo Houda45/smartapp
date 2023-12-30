@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "318146529129",
+    "project_id": "chat-app-9f97f",
+    "storage_bucket": "chat-app-9f97f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318146529129:android:08198ffac1bd53a5bfdff8",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP3kG7k07CMf8jQIdrp0KMG6jqa3DlnkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318146529129:android:7121d86244cb3448bfdff8",
+        "android_client_info": {
+          "package_name": "hd.huda.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP3kG7k07CMf8jQIdrp0KMG6jqa3DlnkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
